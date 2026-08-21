@@ -1,0 +1,39 @@
+.customShadow{
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.userTable{
+  @apply bg-white 
+}
+.userTable th{
+  @apply border text-base font-medium
+}
+
+
+.userTable td{
+  @apply border text-base text-center
+}
+
+
+/*scrolbar hidden*/
+
+.scrollbar-none::-webkit-scrollbar{
+  display: none;
+
+}
+
+.invalid {
+    outline: 2px solid #3F7D58;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    padding-left: 8px;
+    height: 40px;
+  }
+  
+.message {
+    color: #537D5D;
+    font-size: 14px;
+ 
+
+}

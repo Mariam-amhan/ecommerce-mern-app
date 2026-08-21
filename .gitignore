@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Environment variables
+.env
+frontend/.env
+backend/.env
+
+# macOS
+.DS_Store
