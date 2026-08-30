@@ -170,6 +170,79 @@ Users can create accounts, verify their email addresses, log in, manage their pr
 
 Administrators have additional access to the admin panel where they can manage users, products, and orders.
 
+## Screenshots
+
+### Home Page
+The home page displays featured products, promotional banners, and product categories, allowing users to quickly browse and discover available products.
+
+![Home Page](Screens/Home.png)
+
+
+### Home Page – Product Sections & Footer
+Additional product sections are displayed by category, with quick access to product details and the shopping cart. The footer also provides shortcuts to the available product categories.
+
+![Home Page Footer](Screens/Home2.png)
+
+
+### Product Search
+Users can search for products using the search bar. The search results dynamically display products that match the entered search term, even when only part of a product name is entered.
+
+![Product Search](Screens/Search.jpeg)
+
+
+### Product Categories & Filters
+Users can select one or multiple product categories to filter the displayed products. Results can also be sorted by price from low to high or high to low.
+
+![Product Categories and Filters](Screens/Product%20Categories%20%26%20Filters.jpeg)
+
+
+### User Login
+Registered users can sign in using their email and password. The login page also provides password recovery, Google sign-in, and access to account registration.
+
+![User Login](Screens/User%20Login.png)
+
+
+### User Navigation Panel
+After a successful user login, the account menu provides access to Profile, My Orders, and Log Out. The shopping cart icon also displays the number of products currently added to the cart.
+
+![User Navigation Panel](Screens/User%20Navigation%20Panel.jpeg)
+
+
+### My Orders
+Users can view their order history with information such as order ID, date, delivery details, purchased products, quantities, prices, and current order status.
+
+![My Orders](Screens/My%20Orders.png)
+
+
+### Shopping Cart
+The shopping cart allows users to review selected products, adjust quantities, remove items, and view the total price. Users can also enter their delivery information before placing an order.
+
+![Shopping Cart](Screens/Shopping%20Cart.png)
+
+
+### Admin Login
+Administrators sign in through the authentication system using their admin account credentials. The application identifies the account role and provides access to administrator-specific features.
+
+![Admin Login](Screens/Admin%20Login.png)
+
+
+### Admin Navigation Panel
+After an administrator logs in, an additional Admin Panel option becomes available alongside Profile, My Orders, and Log Out, providing access to the application's management features.
+
+![Admin Navigation Panel](Screens/Admin%20Navigation%20Panel.jpeg)
+
+
+### Admin – Product Management
+The admin panel provides an overview of all products. Administrators can add new products, edit existing product information, or remove products from the store.
+
+![All Products](Screens/All%20Products.jpeg)
+
+
+### Admin – User Management
+Administrators can view registered users and their account information, including roles and verification status. User roles can be managed by switching accounts between GENERAL and ADMIN roles.
+
+![All Users](Screens/All%20Users.png)
+
 ## Future Improvements
 
 - Add online payment integration
