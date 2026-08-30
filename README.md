@@ -187,13 +187,13 @@ Additional product sections are displayed by category, with quick access to prod
 ### Product Search
 Users can search for products using the search bar. The search results dynamically display products that match the entered search term, even when only part of a product name is entered.
 
-![Product Search](Screens/Search.jpeg)
+![Product Search](Screens/Search.png)
 
 
 ### Product Categories & Filters
 Users can select one or multiple product categories to filter the displayed products. Results can also be sorted by price from low to high or high to low.
 
-![Product Categories and Filters](Screens/Product%20Categories%20%26%20Filters.jpeg)
+![Product Categories and Filters](Screens/Product%20Categories%20%26%20Filters.png)
 
 
 ### User Login
@@ -205,7 +205,7 @@ Registered users can sign in using their email and password. The login page also
 ### User Navigation Panel
 After a successful user login, the account menu provides access to Profile, My Orders, and Log Out. The shopping cart icon also displays the number of products currently added to the cart.
 
-![User Navigation Panel](Screens/User%20Navigation%20Panel.jpeg)
+![User Navigation Panel](Screens/User%20Navigation%20Panel.png)
 
 
 ### My Orders
@@ -229,13 +229,13 @@ Administrators sign in through the authentication system using their admin accou
 ### Admin Navigation Panel
 After an administrator logs in, an additional Admin Panel option becomes available alongside Profile, My Orders, and Log Out, providing access to the application's management features.
 
-![Admin Navigation Panel](Screens/Admin%20Navigation%20Panel.jpeg)
+![Admin Navigation Panel](Screens/Admin%20Navigation%20Panel.png)
 
 
 ### Admin – Product Management
 The admin panel provides an overview of all products. Administrators can add new products, edit existing product information, or remove products from the store.
 
-![All Products](Screens/All%20Products.jpeg)
+![All Products](Screens/All%20Products.png)
 
 
 ### Admin – User Management
