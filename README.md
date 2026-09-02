@@ -251,6 +251,4 @@ Administrators can view registered users and their account information, includin
 - Add product reviews and ratings
 - Add wishlist functionality
 
-## Author
 
-**Mariam Amhan**
